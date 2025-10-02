@@ -1,0 +1,28 @@
+.Nav{
+    width: 90%;
+    height:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px auto;
+    padding: 20px 25px;
+    position: static;
+    background-color: blue;
+}
+.Nav-List{
+    width:50%;
+}
+.Nav-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 25px;
+}
+.Nav-items li{
+    list-style-type: none;
+    font-size: 1.4rem;
+}
+.Nav-Img{
+    width: 100px;
+    border-radius: 100%;
+}
